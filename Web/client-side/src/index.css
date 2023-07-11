@@ -1,0 +1,143 @@
+@import url('https://fonts.cdnfonts.com/css/graphik');
+@import url('https://fonts.cdnfonts.com/css/tiempos-headline');
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+   background: #14181c url('https://s.ltrbxd.com/static/img/content-bg.0d9a0f0f.png') 0 -1px repeat-x !important;
+   /* padding: 0px 30px; */
+}
+
+.navbar {
+   color: #d8e0e8;
+   /* color: white; */
+   height: 72px;
+   /* position: relative; */
+   z-index: 100;
+   background-color: transparent;
+   /* transition: opacity .4s cubic-bezier(.165, .84, .44, 1); */
+   font-family: 'Graphik', sans-serif;
+   font-weight: bold;
+   font-size: 13px;
+   padding: 0px;
+}
+
+.navbar .nav-brand {
+   /* color: white; */
+   color: #d8e0e8;
+   font-size: 25px;
+}
+
+.navbar .nav-link {
+   /* color: white; */
+   color: #d8e0e8;
+}
+
+.homeBackground {
+   background-image:
+      url(https://a.ltrbxd.com/resized/sm/upload/22/gj/k3/ql/spider-verse-1920-1920-1080-1080-crop-000000.jpg?v=259dfdc695);
+   opacity: 0.7;
+   height: 675px;
+   left: 0;
+   overflow: hidden;
+   position: absolute;
+   top: 0;
+   width: 100%;
+   z-index: -1;
+
+}
+
+/* .backDrop {
+   background-position: center -15px;
+   background-image: url(https://a.ltrbxd.com/resized/sm/upload/22/gj/k3/ql/spider-verse-1200-1200-675-675-crop-000000.jpg?v=259dfdc695);
+   transition: opacity .75s cubic-bezier(.165, .84, .44, 1);
+   z-index: 1000;
+   opacity: 1;
+} */
+
+.welcomeText {
+   font-family: 'Tiempos Headline', sans-serif;
+   color: white;
+   z-index: 100;
+   text-align: center;
+   height: 650px !important;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   font-size: 2.76923077rem;
+   line-height: 1.33333333;
+   margin-bottom: 0;
+   font-weight: 600;
+}
+
+
+
+
+.card-whole {
+   width: 200px;
+   height: 280px !important;
+   background-size: cover;
+   background-position: center;
+   flex: 0 0 20%;
+   margin: 10px;
+}
+
+.cardInside {
+   padding: 20px;
+   color: #fff;
+}
+
+.card-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+.detailPage {
+   color: white;
+}
+
+a.nav-link {
+   color: #00e054;
+   font-weight: 400;
+   font-family: 'Graphik', sans-serif;
+   font-size: 15px;
+   padding: 5px 5px 5px;
+   letter-spacing: 0.12em;
+}
+
+a.nav-link:hover {
+   text-decoration: underline;
+   color: #00e054;
+}
+
+.titleDetail {
+   font-family: 'Tiempos Headline', sans-serif;
+   color: white;
+}
+
+.userTitle {
+   /* font-family: 'Tiempos Headline', sans-serif; */
+   color: #99AABB;
+}
+
+.detailSection {
+   font-family: 'Tiempos Headline', sans-serif;
+   color: #99AABB;
+   font-size: 16px;
+   letter-spacing: 0.12em;
+
+}
+
+.castSection {
+   font-family: 'Graphik', sans-serif;
+   font-size: 14px;
+   background: #283038;
+   border-radius: 3px;
+   box-shadow: inset 0 1px 0 hsla(0, 0%, 100%, .05);
+   color: #9ab;
+   display: inline-block;
+   line-height: 1.5;
+   padding: 3px 6px;
+   white-space: nowrap;
+}
