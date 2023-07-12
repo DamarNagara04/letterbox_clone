@@ -1,0 +1,21 @@
+FROM node:18.12.1-alpine
+
+ENV NODE_ENV=production
+
+ENV REDISLAB_URL=redis:/xxx
+
+ENV APP_FIRST_SERVER_URL=http://localhost:4002
+
+ENV USER_SECOND_SERVER_URL=http://localhost:4001
+
+ENV PORT=4000
+
+WORKDIR /orchestrator-graphql
+
+COPY ["package.json", "package-lock.json", "./"]
+
+RUN npm install
+
+COPY . .
+
+CMD ["npm", "run", "start"]
