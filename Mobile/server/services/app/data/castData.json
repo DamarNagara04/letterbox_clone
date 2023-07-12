@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "name": "Shameik Moore",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "movieId": 2,
+    "name": "Jason Schwartzman",
+    "profilePict": "https://flxt.tmsimg.com/assets/162489_v9_bb.jpg"
+  },
+  {
+    "id": 3,
+    "movieId": 3,
+    "name": "Sydney Sweeney",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BOTVjOTkxNjMtNDJiYS00YzEzLThmZTItZjJhM2E4NWQyM2Q2XkEyXkFqcGdeQXVyNzM1NTU0NA@@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "movieId": 4,
+    "name": "Tom Hanks",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 5,
+    "movieId": 5,
+    "name": "Halle Bailey",
+    "profilePict": "https://www.hawtcelebs.com/wp-content/uploads/2022/09/halle-bailey-imdb-official-portrait-studio-at-d23-exop-09-09-2022-9.jpg"
+  },
+  {
+    "id": 6,
+    "movieId": 6,
+    "name": "Chris Pratt",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BZjdkYjg1NzMtOTY2YS00ZWI1LWEwZWYtOTU1YTM2ODA2ZWY5XkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_.jpg"
+  },
+  {
+    "id": 7,
+    "movieId": 7,
+    "name": "Greta Lee",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BZGM5YzEwOTYtM2RkOC00NDg2LThkM2MtYjBlMjQ5ZDFhNjEwXkEyXkFqcGdeQXVyMTI0NTA5NjI5._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "movieId": 8,
+    "name": "Sam Worthington",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BZWUwNmEwZTUtYzMxMS00ODg5LTlmYjItMGU4ZjNmN2Q1NjkwXkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 9,
+    "movieId": 9,
+    "name": "Tom Hardy",
+    "profilePict": "https://s-media-cache-ak0.pinimg.com/736x/bd/cc/ff/bdccff2b15a6a51779c4e463bfccee36.jpg"
+  },
+  {
+    "id": 10,
+    "movieId": 10,
+    "name": "Keanu Reeves",
+    "profilePict": "https://cdn.britannica.com/11/215011-050-3127A07E/American-actor-Keanu-Reeves-2014.jpg"
+  }
+]

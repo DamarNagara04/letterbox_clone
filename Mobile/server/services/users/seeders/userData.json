@@ -1,0 +1,26 @@
+[
+  {
+    "username": "rfain0",
+    "email": "dgove0@quantcast.com",
+    "password": "E8epyVRf",
+    "role": "Admin",
+    "phoneNumber": "284-717-3002",
+    "address": "PO Box 77787"
+  },
+  {
+    "username": "sgorusso1",
+    "email": "cpiwell1@prweb.com",
+    "password": "GGJKOD",
+    "role": "Admin",
+    "phoneNumber": "504-496-8705",
+    "address": "PO Box 5020"
+  },
+  {
+    "username": "badanez2",
+    "email": "bburet2@homestead.com",
+    "password": "nb0q4vil7H",
+    "role": "Admin",
+    "phoneNumber": "958-583-3052",
+    "address": "4th Floor"
+  }
+]
